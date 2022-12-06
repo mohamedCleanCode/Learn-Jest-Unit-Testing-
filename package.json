@@ -1,0 +1,22 @@
+{
+  "name": "learn-jest-unit-testing-",
+  "version": "1.0.0",
+  "description": "learn jest unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedCleanCode/Learn-Jest-Unit-Testing-.git"
+  },
+  "author": "Mohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedCleanCode/Learn-Jest-Unit-Testing-/issues"
+  },
+  "homepage": "https://github.com/mohamedCleanCode/Learn-Jest-Unit-Testing-#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
