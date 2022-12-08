@@ -18,5 +18,11 @@
   "homepage": "https://github.com/mohamedCleanCode/Learn-Jest-Unit-Testing-#readme",
   "devDependencies": {
     "jest": "^29.3.1"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "coverageReporters": [
+      "html"
+    ]
   }
 }
