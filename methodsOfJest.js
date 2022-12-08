@@ -48,3 +48,25 @@ afterAll(() => {
 })
 */
 // beforeEach(func, timeout) run before one mark test
+
+// learn some matchers
+
+// create your own matcher
+/*
+expect.extend({
+        funcName(received, target) {
+            const pass = condetion
+            if (pass) {
+                return {
+                    massege: () => "massege",
+                    pass: true
+                }
+            } else {
+                return {
+                    massege: () => "massege",
+                    pass: false
+                }
+            }
+    }
+})
+*/
