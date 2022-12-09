@@ -70,3 +70,16 @@ expect.extend({
     }
 })
 */
+
+// learn code code coverage
+/*
+    collectCoverage: true,
+    coverageReoprters: [html, css, ...]
+    coverageDirectory: reports
+    cllectCoverageFrom: [**\*.(js,jsx,ts)]
+    coveragePathIgnorePatterns: [/node_modules, ...]
+*/
+
+// npm test -- --coverage or put in package.json
+
+// learn Mock function
